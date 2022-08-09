@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:open_file/open_file.dart';
+import 'package:open_file_modeck/open_file_modeck.dart';
 
 void main() => runApp(MyApp());
 
