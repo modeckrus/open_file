@@ -1,22 +1,22 @@
-# open_file
-[![pub package](https://img.shields.io/pub/v/open_file.svg)](https://pub.dartlang.org/packages/open_file)
+# open_file_modeck
+[![pub package](https://img.shields.io/pub/v/open_file_modeck.svg)](https://pub.dartlang.org/packages/open_file_modeck)
 
 A plug-in that can call native APP to open files with string result in flutter, support iOS(DocumentInteraction) / android(intent) / PC(ffi) / web(dart:html)
 
 ## Usage
 
-To use this plugin, add [open_file](https://pub.dartlang.org/packages/open_file#-installing-tab-) as a dependency in your pubspec.yaml file.
+To use this plugin, add [open_file_modeck](https://pub.dartlang.org/packages/open_file_modeck#-installing-tab-) as a dependency in your pubspec.yaml file.
 ```yaml
 dependencies:
   #androidx
-  open_file: ^lastVersion 
+  open_file_modeck: ^lastVersion 
   #support
-  #open_file: ^1.3.0
+  #open_file_modeck: ^1.3.0
 ```
 
 ## Example
 ```dart
-import 'package:open_file/open_file.dart';
+import 'package:open_file_modeck/open_file_modeck.dart';
 
 OpenFile.open("/sdcard/example.txt");
 //OpenFile.open("/sdcard/example.txt", type: "text/plain", uti: "public.plain-text");

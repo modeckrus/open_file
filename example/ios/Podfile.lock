@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - open_file_modeck (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - open_file_modeck (from `.symlinks/plugins/open_file_modeck/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  open_file_modeck:
+    :path: ".symlinks/plugins/open_file_modeck/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  open_file_modeck: 76794e1f90781568c18b8a263f758f2936f434fc
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3

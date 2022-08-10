@@ -1,7 +1,7 @@
 name: open_file_modeck
 description: A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)
-version: 3.2.1
-homepage: https://github.com/modeckrus/open_file
+version: 3.2.2
+homepage: https://github.com/modeckrus/open_file_modeck
 
 dependencies:
   flutter:
